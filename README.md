@@ -1,5 +1,5 @@
 # sort
 
-Sorting algorithms written in ANSI C.
+Readable sorting algorithms written in ANSI C.
 
 Pedantic.
